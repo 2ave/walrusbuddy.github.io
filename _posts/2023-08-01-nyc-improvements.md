@@ -7,32 +7,32 @@ categories: blog
 
 ## Subway 
 
-### OPTO
+#### OPTO
 
-### Platform Screen Doors
+#### Platform Screen Doors
 
-### CBTC
+#### CBTC
 
-### Open Gangway Train Cars
+#### Open Gangway Train Cars
 
-### New Fare Gates
+#### New Fare Gates
 
 ## Street and Bus Improvements
 
-## More Bus Lanes
+#### More Bus Lanes
 
-## More Busways
+#### More Busways
 
-## 24/7 Bus Lanes
+#### 24/7 Bus Lanes
 
-### Camera Enforced Buslanes
+#### Camera Enforced Buslanes
 
-### Bike Lanes
+#### Bike Lanes
 
-### No Parking near Intersections
+#### No Parking near Intersections
 
-### All Door Boarding
+#### All Door Boarding
 
-### Eliminate Parking Minimums
+#### Eliminate Parking Minimums
 
-### Containerized Garbage Collection
+#### Containerized Garbage Collection
