@@ -5,7 +5,7 @@ date:   2023-08-01 00:06:54 -0500
 categories: blog
 ---
 
-# Subway 
+## Subway 
 
 ### OPTO
 
@@ -17,13 +17,13 @@ categories: blog
 
 ### New Fare Gates
 
-# Street and Bus Improvements
+## Street and Bus Improvements
 
-### More Bus Lanes
+## More Bus Lanes
 
-### More Busways
+## More Busways
 
-### 24/7 Bus Lanes
+## 24/7 Bus Lanes
 
 ### Camera Enforced Buslanes
 
