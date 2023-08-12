@@ -9,8 +9,6 @@ categories: blog
 
 ### OPTO
 
-
-
 ### Platform Screen Doors
 
 ### CBTC
@@ -33,8 +31,8 @@ categories: blog
 
 ### No Parking near Intersections
 
-## All Door Boarding
+### All Door Boarding
 
-## Eliminate Parking Minimums
+### Eliminate Parking Minimums
 
-## Containerized Garbage Collection
+### Containerized Garbage Collection
